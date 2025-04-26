@@ -1,7 +1,6 @@
 # intouch
 
-A new Flutter project.
-
+A social networking app that allows users to connect, share posts, interact through comments and likes, and discover new content. The app supports real-time updates, profile customization, and multimedia sharing, creating an engaging and dynamic user experience.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
